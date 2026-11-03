@@ -143,5 +143,5 @@ java Task1
 
 This project is developed for academic submission under Invertis University's B.Tech Computer Science curriculum.
 
-## Auther:
+## Author:
    HASEEN BABU
