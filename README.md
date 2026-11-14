@@ -1,22 +1,4 @@
-# Java Programming Lab (BCS-553) - Repository README
 
-> **Institution:** Invertis University, Bareilly
-> 
-> 
-> **Course:** B.Tech CSE (5th Semester)
-> 
-> 
-> **Subject:** Java Programming Lab / Applied Data Structure & Algorithms Lab (BCS-553)
-> 
-> 
-> **Submitted To:** Mr. Manish Sir
-> 
-> 
-> **Submitted By:** Haseen Babu
-> 
-> 
-
----
 
 ## 📖 About This Repository
 
